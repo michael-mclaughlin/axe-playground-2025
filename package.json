@@ -27,15 +27,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michael-mclaughlin/cypress-axe-playground.git"
+    "url": "git+https://github.com/michael-mclaughlin/axe-playground-2025.git"
   },
   "keywords": [],
   "author": "mike-mclaughlin <mjmjr@fastmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michael-mclaughlin/cypress-axe-playground/issues"
+    "url": "https://github.com/michael-mclaughlin/axe-playground-2025/issues"
   },
-  "homepage": "https://github.com/michael-mclaughlin/cypress-axe-playground#readme",
+  "homepage": "https://github.com/michael-mclaughlin/axe-playground-2025#readme",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/node": "^7.12.6",
